@@ -146,10 +146,12 @@ a > .text1, a > .text2, a > .text3, a > .text4 {
     top:73%;
     box-sizing: border-box;
 }
+
 .line {
     display:flex;
     position: absolute;
 }
+
 .line1 {
     margin-top: 50px;
     margin-left: 165px;
@@ -157,11 +159,13 @@ a > .text1, a > .text2, a > .text3, a > .text4 {
     height: 1px;
     opacity: 0.5;
 }
+
 .img-head {
     display: flex;
     margin-left: 165px;
     margin-top: 90px;
 }
+
 .text-v1 > h1 {
     color: #666;
     font-weight: 500;
@@ -169,12 +173,14 @@ a > .text1, a > .text2, a > .text3, a > .text4 {
     line-height: 27px;
     margin-left:60px;
 }
+
 .text-v1 > p {
     margin-left:60px;
     font-size: 18px;
     line-height: 27px;
     color: #85859B;
 }
+
 .line2 {
     margin-top: 50px;
     margin-left: 80px;
@@ -182,9 +188,11 @@ a > .text1, a > .text2, a > .text3, a > .text4 {
     height: 1px;
     opacity: 0.5;
 }
+
 .img-v2 {
     margin-left: 80px;
 }
+
 .text-v2 > h1 {
     color: #666;
     font-weight: 500;
@@ -192,12 +200,14 @@ a > .text1, a > .text2, a > .text3, a > .text4 {
     line-height: 27px;
     margin-left:60px;
 }
+
 .text-v2 > p {
     color:#85859B;
     margin-left:60px;
     font-size: 18px;
     line-height: 27px;
 }
+
 .line3 {
     margin-top: 50px;
     margin-left: 80px;
@@ -205,9 +215,11 @@ a > .text1, a > .text2, a > .text3, a > .text4 {
     height: 1px;
     opacity: 0.5;
 }
+
 .img-v3 {
     margin-left: 80px;
 }
+
 .text-v3 > h1 {
     color: #666;
     font-weight: 500;
@@ -215,19 +227,23 @@ a > .text1, a > .text2, a > .text3, a > .text4 {
     line-height: 27px;
     margin-left:60px;
 }
+
 .text-v3 > p {
     color:#85859B;
     margin-left:60px;
     font-size: 18px;
     line-height: 27px;
 }
+
 .content {
     display: flex;
     margin-left: 165px;
 }
+
 .img-content {
     margin-top: 90px;
 }
+
 .text-content {
     margin-top: 149px;
     margin-left: 30px;
@@ -235,16 +251,19 @@ a > .text1, a > .text2, a > .text3, a > .text4 {
     font-weight: 400;
     font-style: normal;
 }
+
 .text-content > h1 {
     color: #666;
     font-size:40px;
     line-height: 40px;
 }
+
 .text-content > p {
     color: #85859B;
     font-size: 18px;
     line-height: 30.5px;
 }
+
 .product {
     background: #fff;;
     width: 100%;
@@ -252,25 +271,30 @@ a > .text1, a > .text2, a > .text3, a > .text4 {
     position: absolute;
     top: 175%;
 }
+
 .product {
     display: flex;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
+
 .content-product1 {
     margin-left: 165px;
     margin-top: 90px;
 }
+
 .text-cp1 > h1 {
     font-size: 30px;
     line-height: 35px;
 }
+
 .text-cp1 > p {
     color: #85859B;
     font-size: 18px;
     line-height: 30.5px;
 }
+
 .text-bottom {
     display: grid;
     width: 140px;
@@ -280,18 +304,22 @@ a > .text1, a > .text2, a > .text3, a > .text4 {
     font-size: 20px;
     line-height: 23.5px;
 }
+
 .text-bottom > a {
     margin-right: 5px;
     margin: auto;
     color:#7875FE
 }
+
 .text-bottom > img {
     margin: auto;
 }
+
 .content-product2 {
     margin-top: 90px;
     margin-left: 80px;
 }
+
 .text-cp2 > h1 {
     font-size: 30px;
     line-height: 35px;
