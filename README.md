@@ -17,12 +17,15 @@
     margin: 0;
     box-sizing: border-box;
 }
+        
 a { 
     text-decoration: none;
 }
+        
 header {
     display:flex;
 }
+        
 .conteiner-header{
     display: flex;
     width: 100%;
@@ -31,16 +34,19 @@ header {
     padding: 30px 0px 30px 100px;
     border-bottom:#b1afaf solid 1px;
 }
+        
 .info{
     display: flex;
     width: 100%;
     justify-content: space-evenly;
 }
+
 .info>a{
     font-family: "Roboto", sans-serif;
     color: #85859B;
     text-decoration: none;
 }
+
 .logo{
     display: flex;
     width: 100%;
@@ -55,6 +61,7 @@ div > .logo-part1 {
     margin-right: 5px;
 
 }
+
 div > .logo-text {
     color: #333;
     font-family: "Ubuntu", sans-serif;
@@ -266,7 +273,6 @@ a > .text1, a > .text2, a > .text3, a > .text4 {
 }
 .text-bottom {
     display: grid;
-
     width: 140px;
     height: 40px;
     display:flex;
@@ -1004,7 +1010,6 @@ a:active .katalog {
 
 .text-bottom {
     display: grid;
-
     width: 140px;
     height: 40px;
     display:flex;
@@ -1424,7 +1429,6 @@ a:active .buy {
         <div class = "str1">
             <h1>Простые вещи.<br>Из бумаги</h1>
             <p>Бума́га (предположительно от итал. bombagia,<br>первоисточником же считается иранский) — <br>волокнистый материал с минеральными<br> добавками.</p>
-            
             <div class = "katalog">
                 <a href="#" style= "text-decoration: none;">Каталог</a>
             </div>
@@ -1482,12 +1486,10 @@ a:active .buy {
                     <div class = "text-cp1">
                         <h1>Упаковка</h1>
                         <p>Сделано из крафт-бумаги или<br>плотного картона.Упаковки<br>имеют различные формы<br>и расцветки, изготовим<br>форму под заказ.</p>
-                        
                             <div class = "text-bottom">
                                 <a href="#" style= "text-decoration: none;">Подробнее</a>
                                     <img src = "3.svg" width="20" height="15">
                             </div>
-                        
                     </div>
                 </div>
                 <div class = "content-product2">
@@ -1561,13 +1563,11 @@ a:active .buy {
                 <h1>Simple скетчбук</h1>
                 <p>80 листов, твердая обложка, бумага<br>Fabriano 200 г/м2. Подойдет и для графики и для<br>акварели. Для самых<br>смелых творческих замыслов!</p>
                 <div class = "buy">
-                                <a href="#" style= "text-decoration: none;">Купить</a>
-                                    
+                                <a href="#" style= "text-decoration: none;">Купить</a>     
                             </div>
                 <div class = "img-tc">
                     <img src = "фото14.png"  width="730" height="410">
                 </div>
-                
             </div>
         </div>
         <div class = "footer">
